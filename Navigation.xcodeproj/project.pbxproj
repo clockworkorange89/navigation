@@ -17,7 +17,6 @@
 		5F9EC1D526485E3A00918FBE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9EC1D426485E3A00918FBE /* ProfileViewController.swift */; };
 		5F9EC1D92648607600918FBE /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9EC1D82648607600918FBE /* PostViewController.swift */; };
 		5F9EC1DE2649288000918FBE /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9EC1DD2649287F00918FBE /* InfoViewController.swift */; };
-		5F9EC1E12649773000918FBE /* UIAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9EC1E02649773000918FBE /* UIAlertViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		5F9EC1D426485E3A00918FBE /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		5F9EC1D82648607600918FBE /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 		5F9EC1DD2649287F00918FBE /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
-		5F9EC1E02649773000918FBE /* UIAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIAlertViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +75,6 @@
 				5F9EC1D426485E3A00918FBE /* ProfileViewController.swift */,
 				5F9EC1D82648607600918FBE /* PostViewController.swift */,
 				5F9EC1DD2649287F00918FBE /* InfoViewController.swift */,
-				5F9EC1E02649773000918FBE /* UIAlertViewController.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -155,7 +152,6 @@
 				5F9EC1D92648607600918FBE /* PostViewController.swift in Sources */,
 				5F9EC1BF2648513900918FBE /* ViewController.swift in Sources */,
 				5F9EC1BB2648513900918FBE /* AppDelegate.swift in Sources */,
-				5F9EC1E12649773000918FBE /* UIAlertViewController.swift in Sources */,
 				5F9EC1DE2649288000918FBE /* InfoViewController.swift in Sources */,
 				5F9EC1D526485E3A00918FBE /* ProfileViewController.swift in Sources */,
 				5F9EC1D226485E2100918FBE /* FeedViewController.swift in Sources */,

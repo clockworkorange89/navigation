@@ -40,7 +40,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ouj-ae-QpO">
-                                <rect key="frame" x="102" y="393" width="197" height="70"/>
+                                <rect key="frame" x="87" y="361" width="197" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <rect key="contentStretch" x="0.45000000000000001" y="0.29999999999999999" width="0.90000000000000002" height="0.84999999999999998"/>
@@ -48,7 +48,7 @@
                                     <color key="titleColor" systemColor="labelColor"/>
                                 </state>
                                 <connections>
-                                    <segue destination="edP-ls-aUt" kind="presentation" id="Y6d-aO-qB5"/>
+                                    <action selector="Click:" destination="sHk-DL-pHm" eventType="touchUpInside" id="R9k-ZV-uZB"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -60,21 +60,6 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xa8-qd-v0s" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1607.2463768115942" y="2084.5982142857142"/>
-        </scene>
-        <!--Alert View Controller-->
-        <scene sceneID="KLU-5X-8hi">
-            <objects>
-                <viewController id="edP-ls-aUt" customClass="UIAlertViewController" customModule="Navigation" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="52s-iq-gjp">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="xfM-lH-xDm"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="20x-m7-Ujw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-641" y="2085"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="wYg-QX-geT">
